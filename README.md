@@ -1,0 +1,2 @@
+# SMN
+Article to publish.
